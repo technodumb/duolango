@@ -1,0 +1,21 @@
+Today's aim
+
+finish the below 10 programs in Rust and Ruby
+
+1. print triangles
+2. find whether prime
+3. fibonacci
+4. recur factorial
+5. something with hashtable
+6. something with bit manipulation
+7. something with string formatting
+8. something with delays and async
+9. draw graphs in both (libraries and shit)
+10. leetcode problems
+
+
+lets fuckin goo
+
+Task 1: Install both
+Task 2: Learn the required shits in both
+Task 3: ...
